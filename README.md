@@ -45,8 +45,12 @@ notebooks/
 
 README.md
 
+---
+
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE). 
+
+---
 
 ## 📌 Data Source
 The avocado dataset used in this project was obtained from Kaggle.  
