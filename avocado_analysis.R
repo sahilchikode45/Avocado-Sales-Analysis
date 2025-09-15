@@ -1,4 +1,4 @@
-avocado <- read.csv("C:/Users/Admin/Downloads/avocado.csv")
+avocado <- read.csv("................../avocado.csv")
 head(avocado)
 as.tibble(avocado)
 
@@ -96,6 +96,7 @@ ggplot(data = size_long, aes(x=Category, y=Volume, colour = Category)) +
 
 ggplot(data = size_long, aes(x=Category, y=Volume, colour = Category)) + 
   geom_bar(stat = 'identity') + labs(title = "Avocado Size Comparison") + theme_minimal()
+
 
 
 
