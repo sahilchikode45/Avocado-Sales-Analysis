@@ -47,3 +47,8 @@ README.md
 
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE). 
+
+## 📌 Data Source
+The avocado dataset used in this project was obtained from Kaggle.  
+The dataset is subject to its original license and terms of use.  
+This repository only provides analysis and visualizations based on that dataset.
